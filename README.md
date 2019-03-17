@@ -3,7 +3,7 @@
 
 ## Motivation
 
-This notebook is implimenting ICA method to resolved a mixing signal to its constituent components. As a geophysicist it can be very intresting practice.
+In this notebook I will be implimenting ICA method to resolved a signal to its constituent components. As a geophysicist it can be very intresting practice.
 
 ## Usage example
 
