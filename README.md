@@ -3,7 +3,7 @@
 
 ## Motivation
 
-In this notebook I will be implimenting ICA method to resolved a signal to its constituent components. As a geophysicist it can be very intresting practice.
+In this notebook I will be implementing ICA method to resolve a signal to its constituent components. As a geophysicist it can be very interesting practice.
 
 ## Usage example
 
